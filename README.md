@@ -1,2 +1,2 @@
-# novas_ferramentas
-teste com novas linguagens e ferramentas
+# Flutter
+Projeto básico para familiarizar-se com Flutter
